@@ -1,1 +1,2 @@
 # hackathon_ai
+this is a model implemented by me using the random forests model with using the number of trees guven by 200 as it was given the best possible results all other models were not as effecient as this and pca was also not to be implemented as every feature was a useful feature we get a f1 score of roughly around 0.674 i implemented grid search on it also but due to some reason it was taking very much time hence  not getting implemented so i was not able to tune the models hyperparameters
